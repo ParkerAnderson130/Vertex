@@ -52,7 +52,7 @@
 
 ## Have Questions?
 
-That's it for now! Lot's of exiting features a going to be added in the future (saving user chat history is a big one!!!).
+That's it for now! Exiting features are going to be added in the future (saving user chat history is a big one).
 DM one of the lead software engineers or email him at [royswapnil07@gmail.com](mailto:royswapnil07@gmail.com).
 If you stumble upon an issue or have a feature request you are very welcome to open a Github issue or pull request. Have a great day!
 
