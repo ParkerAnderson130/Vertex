@@ -30,6 +30,10 @@
   </a>
 </p>
 
+<p align="center">
+  <strong><a href="https://docs.google.com/presentation/d/1S-9m20cng1Fy2AydQVJJplsOA8ryvwEGMWWRk3ykwcI/edit?slide=id.g3892ed9f2c0_2_731#slide=id.g3892ed9f2c0_2_731">Slides ☝️</a></strong>
+<p>
+
 - **Simple**: Connects publications, experiments, organisms, technologies, and missions in an intelligent knowledge graph
 - **Powerful**: Extracts entities and relationships from publications using GPT-5-Nano
 - **Artificial Intelligence**: Natural language queries processed with LangChain + OpenAI
