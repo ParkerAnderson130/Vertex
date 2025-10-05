@@ -1,0 +1,4 @@
+In the epidermis of Arabidopsis leaves, flavonols specifically accumulate in
+guard cells with enhanced synthesis in the presence of ethylene, where they lower
+the levels of reactive oxygen species and reduce the rate of stomatal
+closure.

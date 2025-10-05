@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# virtualenv
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Neo4j local files
+.neo4j/
+
+# Logs
+*.log
+
+# MacOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Secrets / config files
+*.env
+config.yaml
+config.json
+
+# Output files
+cyphers.txt
+
+# Node.js modules
+node_modules/

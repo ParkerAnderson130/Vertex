@@ -1,0 +1,27 @@
+The evolutionary success of parasitoid wasps, a highly diverse group of
+insects widely used in biocontrol, depends on a variety of life history
+strategies in conflict with those of their hosts [1]. Drosophila melanogaster
+is a natural host of parasitic wasps of the genus Leptopilina.
+Attack by L. boulardi (Lb), a specialist wasp
+to flies of the melanogaster group, activates NF-κB-mediated humoral and
+cellular immunity. Inflammatory blood cells mobilize and encapsulate
+Lb eggs and embryos [2–5].
+L. heterotoma (Lh), a generalist wasp,
+kills larval blood cells and actively suppresses immune responses. Spiked
+virus-like particles (VLPs) in wasp venom have clearly been linked to its
+successful parasitism of Drosophila [6], but VLP composition and their biotic
+nature have remained mysterious. Our proteomics studies reveal that VLPs lack
+viral coat proteins but possess a pharmacopoeia of (a) eukaryotic vesicular
+transport system, (b) immunity, and (c) previously unknown proteins. These novel
+proteins distinguish Lh from Lb VLPs; notably,
+some proteins specific to Lh VLPs possess sequence similarities
+with bacterial secretion system proteins. Structure-informed analyses of an
+abundant Lh VLP surface/spike-tip protein, p40, reveal
+similarities to the needle-tip invasin proteins SipD/IpaD of Gram negative
+bacterial type 3 secretion systems that breach immune barriers and deliver
+virulence factors into mammalian cells. Our studies suggest that
+Lh VLPs represent a new class of extracellular organelles
+and share pathways for protein delivery with both eukaryotic microvesicles and
+bacterial surface secretion systems. Given their mixed prokaryotic/eukaryotic
+properties, we propose the term Mixed Strategy Extracellular Vesicles (MSEVs) to
+replace VLP.
