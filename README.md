@@ -17,8 +17,6 @@
 
 <p align="center">
   <b>An AI chatbot that replaces traditional static search tools with a powerful, conversational experience.</b></br>
-  <sub>Powered by a knowledge graph that finds relationships between NASA research papers, Vertex allows users to intuitively explore experiment results, identify trends and gaps, and understand interdisciplinary connections simply by talking.
-<sub>
 </p>
 
 <br />
