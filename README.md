@@ -1,13 +1,13 @@
 <p align="center">
 <img src="https://github.com/ParkerAnderson130/Vertex/blob/main/logo.png" alt="Logo" width="400" height="400" />
-<h1 align="center">The Hack Pack Website</h1>
+<h1 align="center">VertexAI</h1>
 <p align="center">
-<a href="https://github.com/andreasbm/readme/graphs/commit-activity"><img alt="Maintained" src="https://img.shields.io/badge/Docusaurus-v3.7.0-blue.svg" height="20"/></a>
-<a href="https://github.com/The-Hack-Pack/uga-scs-competitive-hacking.github.io/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/The-Hack-Pack/uga-scs-competitive-hacking.github.io.svg" height="20"/></a>
-<a href="https://github.com/andreasbm/readme/graphs/commit-activity"><img alt="Maintained" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" height="20"/></a>
-<a href="https://github.com/The-Hack-Pack/uga-scs-competitive-hacking.github.io/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/The-Hack-Pack/uga-scs-competitive-hacking.github.io?color=0088ff"/></a>
-<a href="https://github.com/The-Hack-Pack/uga-scs-competitive-hacking.github.io/graphs/issues"><img alt="Issues" src="https://img.shields.io/github/issues/The-Hack-Pack/uga-scs-competitive-hacking.github.io.svg" height="20"/></a>
-<a href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="License: CC BY-NC-ND 4.0" src="https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg" height="20"/></a>
+<a href="https://github.com/andreasbm/readme/graphs/commit-activity"><img alt="python-v3.10.0" src="https://img.shields.io/badge/python-v3.10.0-darkgreen.svg" height="20"/></a>
+<a href="https://github.com/ParkerAnderson130/Vertex/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/ParkerAnderson130/Vertex.svg" height="20"/></a>
+<a href="https://github.com/andreasbm/readme/graphs/commit-activity"><img alt="Maintained" src="https://img.shields.io/badge/maintained%3F-yes-red.svg" height="20"/></a>
+<a href="https://github.com/ParkerAnderson130/Vertex/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ParkerAnderson130/Vertex?color=1493fe"/></a>
+<a href="https://github.com/ParkerAnderson130/Vertex/graphs/issues"><img alt="Issues" src="https://img.shields.io/github/issues/ParkerAnderson130/Vertex.svg" height="20"/></a>
+<a href="https://opensource.org/license/mit"><img alt="License: CC BY-NC-ND 4.0" src="https://img.shields.io/badge/License-MIT-lightgrey.svg" height="20"/></a>
 
 <p align="center">
 <a href="https://github.com/The-Hack-Pack/uga-scs-competitive-hacking.github.io/graphs/forks"><img alt="Forks" src="https://img.shields.io/github/forks/The-Hack-Pack/uga-scs-competitive-hacking.github.io.svg" height="20"/></a>
