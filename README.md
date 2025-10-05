@@ -70,7 +70,7 @@ If you stumble upon an issue or have a feature request, you are welcome to open 
 Copyright &copy; NASA.
 This work is licensed under 
 <a rel="license" href="https://opensource.org/license/mit">MIT</a> to the public.
-The content and opinions expressed on this Web page do not necessarily reflect the views of nor are they endorsed by NASA and the University of Georgia or the University System of Georgia.
+The content and opinions expressed on this web page do not necessarily reflect the views of nor are they endorsed by NASA and the University of Georgia or the University System of Georgia.
 
 <p align="right"><a href="#top">🔼 Back to top</a></p>
 </small>
