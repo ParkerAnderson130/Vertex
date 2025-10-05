@@ -10,8 +10,8 @@
 <a href="https://opensource.org/license/mit"><img alt="License: CC BY-NC-ND 4.0" src="https://img.shields.io/badge/License-MIT-lightgrey.svg" height="20"/></a>
 
 <p align="center">
-<a href="https://github.com/The-Hack-Pack/uga-scs-competitive-hacking.github.io/graphs/forks"><img alt="Forks" src="https://img.shields.io/github/forks/The-Hack-Pack/uga-scs-competitive-hacking.github.io.svg" height="20"/></a>
-<a href="https://github.com/The-Hack-Pack/uga-scs-competitive-hacking.github.io/graphs/stars"><img alt="Stars" src="https://img.shields.io/github/stars/The-Hack-Pack/uga-scs-competitive-hacking.github.io.svg" height="20"/></a>
+<a href="https://github.com/https://github.com/ParkerAnderson130/Vertex/graphs/forks"><img alt="Forks" src="https://img.shields.io/github/forks/ParkerAnderson130/Vertex.svg" height="20"/></a>
+<a href="https://github.com/https://github.com/ParkerAnderson130/Vertex/graphs/stars"><img alt="Stars" src="https://img.shields.io/github/stars/ParkerAnderson130/Vertex.svg" height="20"/></a>
 
 </p>
 
@@ -27,9 +27,9 @@
   <img src="https://github.com/thespcrewroy/uga-scs-competitive-hacking.github.io/blob/development/static/img/thehackpackwebsite.gif" alt="Demo" width="800" />
 </p>
 
-- **Simple**: Extremely simple to use - so simple that it almost feels like magic!
-- **Powerful**: Customize almost everything - add your own chalenges, writeups, solution guides, and more!
-- **Awesome**: The educational resource you didn't know you needed before. Maintained by a group of passionate cyber entusiasts.
+- **Simple**: Connects publications, experiments, organisms, technologies, and missions in an intelligent knowledge graph on a React front-end
+- **Powerful**: Extracts entities and relationships from publications using GPT-5-Nano. Natural language queries processed with LangChain + ChatOpenAI.
+- **Awesome**: Automated Cypher Generation as AI converts natural language queries into optimized Neo4j Cypher
 
 <details>
 <summary>📖 Table of Contents</summary>
