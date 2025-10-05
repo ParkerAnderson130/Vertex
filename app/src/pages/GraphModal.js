@@ -27,6 +27,9 @@ export default function GraphModal({ isOpen, onClose, graphData, onNodeClick, on
 
       style={{
         content: {
+          backgroundColor: "#FCFCFC",
+          border: "none",
+          outline: "none",
           top: "50%",
           left: "50%",
           transform: "translate(-50%, -50%)",
