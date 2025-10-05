@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <b>An AI chatbot that replaces traditional static search tools with a powerful, conversational experience.</b></br>
+  <b>An AI chatbot that replaces traditional static search tools with a powerful, conversational experience</b></br>
 </p>
 
 <br />
@@ -32,7 +32,7 @@
 
 - **Simple**: Connects publications, experiments, organisms, technologies, and missions in an intelligent knowledge graph
 - **Powerful**: Extracts entities and relationships from publications using GPT-5-Nano
-- **Artificial Intelligence**: Natural language queries processed with LangChain + OpenAI.
+- **Artificial Intelligence**: Natural language queries processed with LangChain + OpenAI
 - **Awesome**: Automated Cypher Generation as AI converts natural language queries into optimized Neo4j Cypher
 
 <details>
