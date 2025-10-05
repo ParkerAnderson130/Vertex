@@ -17,7 +17,7 @@
 
 <p align="center">
   <b>An AI chatbot that replaces traditional static search tools with a powerful, conversational experience.</b></br>
-  <sub>Powered by a knowledge graph that finds relationships between NASA research papers, allowing users to intuitively explore experiment results, identify trends and gaps, and understand interdisciplinary connections simply by talking.
+  <sub>Powered by a knowledge graph that finds relationships between NASA research papers, Vertex allows users to intuitively explore experiment results, identify trends and gaps, and understand interdisciplinary connections simply by talking.
 <sub>
 </p>
 
@@ -34,7 +34,7 @@
 
 - **Simple**: Connects publications, experiments, organisms, technologies, and missions in an intelligent knowledge graph
 - **Powerful**: Extracts entities and relationships from publications using GPT-5-Nano
-- **Artificial Intelligence**: Natural language queries processed with LangChain + ChatOpenAI.
+- **Artificial Intelligence**: Natural language queries processed with LangChain + OpenAI.
 - **Awesome**: Automated Cypher Generation as AI converts natural language queries into optimized Neo4j Cypher
 
 <details>
@@ -52,9 +52,9 @@
 
 ## Have Questions?
 
-That's it for now! Exiting features are going to be added in the future (saving user chat history is a big one).
-DM one of the lead software engineers or email him at [royswapnil07@gmail.com](mailto:royswapnil07@gmail.com).
-If you stumble upon an issue or have a feature request you are very welcome to open a Github issue or pull request. Have a great day!
+More features will be added in the future (saving user chat history is a big one).
+DM one of the lead software engineers or email [royswapnil07@gmail.com](mailto:royswapnil07@gmail.com).
+If you stumble upon an issue or have a feature request, you are welcome to open a Github issue or pull request.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)](#contributors)
 
