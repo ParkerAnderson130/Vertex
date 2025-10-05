@@ -24,7 +24,7 @@
 <br />
 
 <p align="center">
-  <img src="https://github.com/thespcrewroy/uga-scs-competitive-hacking.github.io/blob/development/static/img/thehackpackwebsite.gif" alt="Demo" width="800" />
+  <img src="https://github.com/ParkerAnderson130/Vertex/blob/main/demo.gif" alt="Demo" width="800" />
 </p>
 
 <p align="center">
