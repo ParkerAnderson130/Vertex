@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ParkerAnderson130/Vertex/blob/main/logo.png" alt="Logo" width="500" height="500" />
+<img src="https://github.com/ParkerAnderson130/Vertex/blob/main/logo.png" alt="Logo" width="400" height="400" />
 <h1 align="center">The Hack Pack Website</h1>
 <p align="center">
 <a href="https://github.com/andreasbm/readme/graphs/commit-activity"><img alt="Maintained" src="https://img.shields.io/badge/Docusaurus-v3.7.0-blue.svg" height="20"/></a>
