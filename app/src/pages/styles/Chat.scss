@@ -1,3 +1,27 @@
+/* Add this new class at the top of the file or outside of .chat-container */
+.home-button {
+    position: absolute;
+    top: 2rem;
+    left: 2rem;
+    z-index: 1000;
+
+    background: transparent;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+
+    svg {
+        width: 2.5rem;
+        height: 2.5rem;
+        filter: drop-shadow(0px 0px 2px rgba(0,0,0,0.5)); /* Optional: adds generic shadow for visibility */
+    }
+
+    &:hover {
+        opacity: 0.8;
+    }
+}
+
+/* Existing styles below... */
 .chat-container {
     position: absolute;
     top: 50%; left: 50%; transform: translate(-50%, -50%);

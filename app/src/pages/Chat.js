@@ -1,4 +1,5 @@
 import React, { useState, useRef } from "react";
+import { useNavigate } from "react-router-dom"; // Import useNavigate
 import { UserMessage, AssistantMessage } from "./MessageTypes.js";
 import GraphModal from "./GraphModal.js"
 import "./styles/Chat.scss";
@@ -10,6 +11,7 @@ export default function Chat() {
   const [modalOpen, setModalOpen] = useState(false);
   const [graphData, setGraphData] = useState({ nodes: [], edges: [] });
 
+  const navigate = useNavigate(); // Initialize navigate
   const inputRef = useRef();
 
   const openGraph = () => {
@@ -51,18 +53,6 @@ export default function Chat() {
         dbResults: data.db_results,
       };
       console.log(data.graph)
-      
-      /**  Dummy assistant message
-      const assistantMessage = {
-        type: "assistant",
-        text: `This is a dummy response for: "${question}"`,
-        cypher: "MATCH (n) RETURN n LIMIT 5",
-        dbResults: [
-          { id: 1, name: "Node A" },
-          { id: 2, name: "Node B" },
-        ],
-      };
-      **/
 
       setMessages((prev) => [...prev, assistantMessage]);
       setGraphData(data.graph);
@@ -79,6 +69,14 @@ export default function Chat() {
 
   return (
     <section>
+      {/* Home Button - Redirects to Landing */}
+      <button className="home-button" onClick={() => navigate("/")} aria-label="Home">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white" width="24px" height="24px">
+          <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/>
+          <path d="M0 0h24v24H0z" fill="none"/>
+        </svg>
+      </button>
+
       <div className="chat-container">
         
         <div className="header">
