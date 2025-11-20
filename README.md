@@ -63,7 +63,7 @@ If you stumble upon an issue or have a feature request, you are welcome to open 
 ## Thanks to all our Contributors!
 
 <a href="https://github.com/ParkerAnderson130/Vertex/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ParkerAnderson130/Vertex" />
+  <img src="contributors.png" />
 </a>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)](#license)
